@@ -1,0 +1,7 @@
+package finalvariable;
+
+public class Nursing Home{
+	
+	final static int patient = 200;
+	
+}

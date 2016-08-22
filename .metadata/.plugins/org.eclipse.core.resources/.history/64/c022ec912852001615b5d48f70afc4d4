@@ -1,0 +1,15 @@
+package finalvariable;
+
+public class TestNHome {
+
+
+	public static void main(String[] args) {
+		
+		NursingHome Laurel = new NursingHome();
+		
+	int numberOfPatient = Laurel.dementiaPatient
+	
+	System.out.println(numberOfPatient);
+	}
+
+}
