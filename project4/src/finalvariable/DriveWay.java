@@ -2,7 +2,7 @@ package finalvariable;
 
 public class DriveWay {
 	
-	 final static int driveWaySize = 10;
+	 final int driveWaySize = 10;
 	
 	
 
